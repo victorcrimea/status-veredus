@@ -12,9 +12,9 @@ status-website:
   cname: status.veredus.io
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/victorcrimea/status-veredus).
+  name: Veredus status
+  introTitle: "Veredus service status"
+  introMessage: Hosting for 0 A.D. Not affiliated with Wildfire Games.
   navbar:
     - title: Status
       href: /
