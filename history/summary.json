@@ -4,17 +4,19 @@
     "url": "https://veredus.io",
     "icon": "https://icons.duckduckgo.com/ip3/veredus.io.ico",
     "slug": "veredus-io-homepage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1170,
-    "timeDay": 1071,
-    "timeWeek": 1170,
-    "timeMonth": 1170,
-    "timeYear": 1170,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "90.64%",
+    "uptimeDay": "72.59%",
+    "uptimeWeek": "90.64%",
+    "uptimeMonth": "90.64%",
+    "uptimeYear": "90.64%",
+    "time": 1206,
+    "timeDay": 1210,
+    "timeWeek": 1206,
+    "timeMonth": 1206,
+    "timeYear": 1206,
+    "dailyMinutesDown": {
+      "2026-10-02": 395
+    }
   }
 ]
