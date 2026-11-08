@@ -1,7 +1,7 @@
 url: https://veredus.io
-status: up
-code: 200
-responseTime: 1407
-lastUpdated: 2026-11-08T01:59:52.961Z
+status: down
+code: 504
+responseTime: 11326
+lastUpdated: 2026-11-08T09:32:53.539Z
 startTime: 2026-09-29T15:49:22.625Z
 generator: Upptime <https://github.com/upptime/upptime>
