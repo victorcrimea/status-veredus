@@ -5,6 +5,8 @@ repo: status-veredus # The name of this repository
 sites:
   - name: Veredus.io Homepage
     url: https://veredus.io
+  - name: Veredus.io Demo
+    url: https://demo.veredus.io
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
